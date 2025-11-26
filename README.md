@@ -44,12 +44,7 @@ Our `ID document liveness detection SDK`(ID document anti-spoofing) suite effect
 https://docs.kby-ai.com/help/product/id-document-liveness-detection-sdk
 
 ## SDK License
-
-This project uses `KBY-AI`'s `ID card recognition server SDK`, which requires a license per machine.
-
-- The code below shows how to use the license: https://github.com/kby-ai/IDCardRecognition-Docker/blob/9f8138fa83d39a80a95e71b52048dbfc6579558c/app.py#L14-L25
-
-- To request the license, please provide us with the `machine code` obtained from the `getMachineCode` function.
+- To request `SDK`, please contact us.
 
 #### Please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
