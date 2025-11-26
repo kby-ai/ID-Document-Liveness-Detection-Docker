@@ -37,7 +37,7 @@ Our `ID document liveness detection SDK`(ID document anti-spoofing) suite effect
 
 ## Try the API
 ### Online Demo
-  You can test the SDK using images [here](https://web.kby-ai.com).</br>  
+  You can test the `SDK` against static image [here](https://web.kby-ai.com).</br>  
   ![image](https://github.com/user-attachments/assets/e803f57e-63dc-4c72-9994-13debed916ef)
 
 ### Documentation
