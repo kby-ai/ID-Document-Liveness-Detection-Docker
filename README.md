@@ -14,14 +14,14 @@
 #### 📚 Product & Resources - [Here](https://github.com/kby-ai/Product)
 #### 🛟 Help Center - [Here](https://docs.kby-ai.com)
 #### 💼 KYC Verification Demo - [Here](https://github.com/kby-ai/KYC-Verification-Demo-Android)
-#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/r/kbyai/idcard-recognition)
+#### 🙋‍♀️ Docker Hub - [Here](https://hub.docker.com/r/kbyai)
 
 # ID-Document-Liveness-Detection-Docker
 
 ## Introduction
 
-This repo demonstrates the server-based recognition capabilities for `ID card`, `passport`, and `driver's license`.<br/>
-At the core of this project lies the `ID Card Recognition SDK`, which has been developed to provide comprehensive support for recognizing `ID card`, `passport`, and `driver's license` from 200+ countries.
+This repo demonstrates the server-based ID document liveness detection (anti-spoofing) capabilities for `ID card`, `passport`, and `driver's license`.<br/>
+Our `ID document liveness detection SDK`(ID document anti-spoofing) suite effectively prevents common presentation attacks: `Screen Replay Attacks`, `Printed Copy Attacks`, and `Portrait Substitution Attacks`.
 
 ### ◾ID Card Recognition Product List
   | No.      | Repository | Release Type |
@@ -33,12 +33,12 @@ At the core of this project lies the `ID Card Recognition SDK`, which has been d
   | 5        | [ID Card Recognition - Windows](https://github.com/kby-ai/IDCardRecognition-Windows)        | Server-Windows |
   | 6        | [ID Card Recognition - Linux](https://github.com/kby-ai/IDCardRecognition-Docker)        | Server-Linux |
   | 7        | [ID Card Recognition - C#](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)        | Server-Windows |
-  | ➡️        | <b>[ID Card Liveness Detection - Linux](https://github.com/kby-ai/IDCardRecognition-CSharp-.NET)</b>        | <b>Server-Linux</b> |
+  | ➡️        | <b>[ID Card Liveness Detection - Linux](https://github.com/kby-ai/ID-Document-Liveness-Detection-Docker)</b>        | <b>Server-Linux</b> |
 
 ## Try the API
 ### Online Demo
   You can test the SDK using images [here](https://web.kby-ai.com).</br>  
-  ![image](https://github.com/kby-ai/IDCardRecognition-Docker/assets/125717930/ff395174-d3e9-4198-bfc8-6024a8c31734)
+  ![image](https://github.com/user-attachments/assets/e803f57e-63dc-4c72-9994-13debed916ef)
 
 ### Documentation
 https://docs.kby-ai.com/help/product/id-document-liveness-detection-sdk
