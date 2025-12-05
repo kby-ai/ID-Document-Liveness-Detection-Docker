@@ -61,6 +61,11 @@ sudo docker run -e LICENSE="xxxxx" kbyai/idl:latest
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
 🧙`Discord:` [KBY-AI](https://discord.gg/CgHtWQ3k9T)</br>
 🧙`Teams:` [KBY-AI](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)</br>
+
+## Test API in KBY-AI Online Demo Page
+  You can test the `SDK` against static image [here](https://web.kby-ai.com).</br>  
+  ![image](https://github.com/user-attachments/assets/e803f57e-63dc-4c72-9994-13debed916ef)
+  
 ## Test API with Gradio Demo
   To test the `Gradio` demo from the Docker image, access it at [http://127.0.0.1:7860](http://127.0.0.1:7860) or [http://localhost:7860](http://localhost:7860).
   
@@ -116,8 +121,3 @@ sudo docker run -e LICENSE="xxxxx" kbyai/idl:latest
     "resultCode": "Ok"
 }
 ```
-
-## Try the API
-### Online Demo
-  You can test the `SDK` against static image [here](https://web.kby-ai.com).</br>  
-  ![image](https://github.com/user-attachments/assets/e803f57e-63dc-4c72-9994-13debed916ef)
